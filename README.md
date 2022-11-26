@@ -1,2 +1,2 @@
-# Hello-World-Django-app
-Software Architect and Design Lab Assignment 5
+# -Software-Architect-and-Design_Week-5
+Django app
